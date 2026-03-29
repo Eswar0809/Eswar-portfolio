@@ -63,7 +63,7 @@ function typeWriter(element, text, speed = 100) {
 // Start typing animation when page loads
 window.addEventListener('load', () => {
     const fullName = 'Eswar Chandra Vidya Sagar';
-    typeWriter(typingText, fullName, 50);
+    typeWriter(typingText, fullName, 50); 
 });
 
 // ===========================
